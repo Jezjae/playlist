@@ -1,0 +1,66 @@
+[
+  {
+    "id": "music_1",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_fOV3Ixs99EYLvHH7fSeKRx4doeBjwyJKQ&usqp=CAU",
+    "path": "WaveGravel_Aljakji_Jejuisland.mp3",
+    "name": "Coldplay",
+    "title": "viva La Vida",
+    "length": "15분 17초"
+  },
+  {
+    "id": "music_2",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_fOV3Ixs99EYLvHH7fSeKRx4doeBjwyJKQ&usqp=CAU",
+    "path": "WaveGravel_Aljakji_Jejuisland.mp3",
+    "name": "Justin Bieber",
+    "title": "Love Y",
+    "length": "15분 17초"
+  },
+  {
+    "id": "music_3",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_fOV3Ixs99EYLvHH7fSeKRx4doeBjwyJKQ&usqp=CAU",
+    "path": "WaveGravel_Aljakji_Jejuisland.mp3",
+    "name": "Ed Sheeran",
+    "title": "Shape o",
+    "length": "15분 17초"
+  },
+  {
+    "id": "music_4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_fOV3Ixs99EYLvHH7fSeKRx4doeBjwyJKQ&usqp=CAU",
+    "path": "WaveGravel_Aljakji_Jejuisland.mp3",
+    "name": "Adele",
+    "title": "Someone like",
+    "length": "15분 17초"
+  },
+  {
+    "id": "music_5",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_fOV3Ixs99EYLvHH7fSeKRx4doeBjwyJKQ&usqp=CAU",
+    "path": "WaveGravel_Aljakji_Jejuisland.mp3",
+    "name": "Ed Sheeran",
+    "title": "Thinking",
+    "length": "15분 17초"
+  },
+  {
+    "id": "music_6",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_fOV3Ixs99EYLvHH7fSeKRx4doeBjwyJKQ&usqp=CAU",
+    "path": "WaveGravel_Aljakji_Jejuisland.mp3",
+    "name": "Little Mix",
+    "title": "Cheer",
+    "length": "15분 17초"
+  },
+  {
+    "id": "music_7",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_fOV3Ixs99EYLvHH7fSeKRx4doeBjwyJKQ&usqp=CAU",
+    "path": "WaveGravel_Aljakji_Jejuisland.mp3",
+    "name": "The chainsmokers",
+    "title": "ththth",
+    "length": "15분 17초"
+  },
+  {
+    "id": "music_8",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_fOV3Ixs99EYLvHH7fSeKRx4doeBjwyJKQ&usqp=CAU",
+    "path": "WaveGravel_Aljakji_Jejuisland.mp3",
+    "name": "Nirvana",
+    "title": "Smells Like",
+    "length": "15분 17초"
+  }
+]
