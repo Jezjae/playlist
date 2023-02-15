@@ -6,6 +6,7 @@ class MusicItemsModel {
   String? name;
   String? title;
   String? length;
+  bool isPlay = false;
 
 
   MusicItemsModel(
@@ -16,6 +17,7 @@ class MusicItemsModel {
         this.name,
         this.title,
         this.length,
+        required this.isPlay
       }
       );
 
@@ -25,7 +27,8 @@ class MusicItemsModel {
         path = json['path'],
         name = json['image'],
         title = json['image'],
-        length = json['image'];
+        length = json['image'],
+        isPlay = json['isPlay'];
 
 
   Map<String, dynamic> toJson() => {
@@ -35,6 +38,7 @@ class MusicItemsModel {
     'name' : name,
     'title' : title,
     'length' : length,
+    'isPlay' : isPlay,
 
   };
 
